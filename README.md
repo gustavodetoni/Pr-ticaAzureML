@@ -11,12 +11,12 @@ Estudo pela DIO.me, Machine Learning na Prática no Azure ML.
 - No estúdio Azure Machine Learning, no menu esquerdo, selecionei Endpoints e abri o ponto final em tempo real de previsão de alugueres
 - Na página do endpoint em tempo real de previsão de aluguel, visualizei a guia Teste
 - No painel Dados de entrada para testar o endpoint, substitui o modelo JSON pelo meu modelo de teste
-- 
+  
 ![tst](https://github.com/gustavodetoni/Pr-ticaAzureML/assets/106715191/f3a13c37-b371-4604-8c90-870f624095e2)
 
 
 - Resultado esperado e obtido
-- 
+  
 ![result](https://github.com/gustavodetoni/Pr-ticaAzureML/assets/106715191/25d2665e-5029-4a2e-bccd-7d8e01e07f53)
 
 
